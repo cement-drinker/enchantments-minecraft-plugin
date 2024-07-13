@@ -1,0 +1,5 @@
+name: stuff
+version: '${version}'
+main: org.cementdrinker.stuff.Stuff
+api-version: '1.21'
+bootstrapper: org.cementdrinker.stuff.BootStrapperCustom
